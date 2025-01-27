@@ -102,5 +102,17 @@ The C# compiler works behind the scenes to assist you as you write your code. It
 var message = "Hello world!";
 ```
 
+The var keyword tells the C# compiler that the data type is implied by the assigned value. After the type is implied, the variable acts the same as if the actual data type had been used to declare it. The var keyword is used to save on keystrokes when types are lengthy or when the type is obvious from the context.
+
+Putting it together...
+
+```csharp
+string bobsName = "bob";
+int numThree = 3;
+decimal thirtyFour = 34.4M; 
+
+Console.Write($"Hello {bobsName} you have {numThree} messages in your inbox. The temperature is {thirtyFour} celsius.");
+```
+
 
 
