@@ -53,3 +53,54 @@ Console.WriteLine(false); // output has capital = False
 
 ---
 
+## Variable name rules and conventions
+
+Here's a few important considerations about variable names:
+
+- Variable names can contain alphanumeric characters and the underscore character. Special characters like the hash symbol # (also known as the number symbol or pound symbol) or dollar symbol $ are not allowed.
+- Variable names must begin with an alphabetical letter or an underscore, not a number.
+- Variable names are case-sensitive, meaning that string Value; and string value; are two different variables.
+- Variable names must not be a C# keyword. For example, you cannot use the following variable declarations: decimal decimal; or string string;.
+  
+Here are some coding conventions for variables:
+
+- Variable names should use camel case, which is a style of writing that uses a lower-case letter at the beginning of the first word and an upper-case letter at the beginning of each subsequent word. For example, string thisIsCamelCase;.
+- Variable names should begin with an alphabetical letter. Developers use the underscore for a special purpose, so try to not use that for now.
+- Variable names should be descriptive and meaningful in your app. Choose a name for your variable that represents the kind of data it will hold.
+- Variable names should be one or more entire words appended together. Don't use contractions or abbreviations because the name of the variable (and therefore, its purpose) may be unclear to others who are reading your code.
+- Variable names shouldn't include the data type of the variable. You might see some advice to use a style like string strValue;. That advice is no longer current.
+
+**NB**: you can reassign a variable, but you cannot change it's type: 
+
+```csharp
+string firstName;
+firstName = "Bob";
+Console.WriteLine(firstName);
+firstName = "Liem";
+Console.WriteLine(firstName);
+firstName = "Isabella";
+Console.WriteLine(firstName);
+firstName = "Yasmin";
+Console.WriteLine(firstName);
+```
+
+To avoid the possibility of an unassigned local variable, it is recommended that you set the value as soon as possible after you declare it.
+
+```csharp
+string firstName; 
+firstName = "David"; 
+
+// alternatively
+string anotherFirstName = "Xiao"; // can be set at time of initialisation
+
+Console.WriteLine(firstName + " and " + anotherFirstName);
+```
+
+The C# compiler works behind the scenes to assist you as you write your code. It can infer your variable's data type by its initialized value.
+
+```csharp
+var message = "Hello world!";
+```
+
+
+
