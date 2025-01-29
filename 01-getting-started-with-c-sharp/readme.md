@@ -114,5 +114,44 @@ decimal thirtyFour = 34.4M;
 Console.Write($"Hello {bobsName} you have {numThree} messages in your inbox. The temperature is {thirtyFour} celsius.");
 ```
 
+---
 
+## Some string formatting
+
+Note that the backslashes need to be doubled up to get them to appear:
+
+```csharp
+Console.WriteLine("Hello\nWorld!");
+Console.WriteLine("Hello\tWorld!");
+Console.WriteLine("Hello \"World\"!");
+Console.WriteLine("c:\\source\\repos");
+Console.WriteLine("c:\\\\source\\\\repos");
+```
+
+An example :
+
+```csharp
+Console.WriteLine("Generating invoices for customer \"Contoso Corp\" ... \n");
+Console.WriteLine("Invoice: 1021\t\tComplete!");
+Console.WriteLine("Invoice: 1022\t\tComplete!");
+Console.WriteLine("\nOutput Directory:\t");
+```
+
+output
+
+> Generating invoices for customer "Contoso Corp" ...
+> 
+> Invoice: 1021           Complete!
+> Invoice: 1022           Complete!
+> 
+> Output Directory:
+
+## Verbatim string literal
+
+A verbatim string literal will keep all whitespace and characters without the need to escape the backslash. To create a verbatim string, use the `@` directive before the literal string.
+
+```csharp
+Console.WriteLine(@"    c:\source\repos    
+        (this is where your code goes)");
+```
 
