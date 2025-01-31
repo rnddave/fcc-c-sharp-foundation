@@ -1,0 +1,15 @@
+/Users/dickinsd/Development/fcc-c-sharp-foundation/01-getting-started-with-c-sharp/startingOut/bin/Debug/net9.0/startingOut
+/Users/dickinsd/Development/fcc-c-sharp-foundation/01-getting-started-with-c-sharp/startingOut/bin/Debug/net9.0/startingOut.deps.json
+/Users/dickinsd/Development/fcc-c-sharp-foundation/01-getting-started-with-c-sharp/startingOut/bin/Debug/net9.0/startingOut.runtimeconfig.json
+/Users/dickinsd/Development/fcc-c-sharp-foundation/01-getting-started-with-c-sharp/startingOut/bin/Debug/net9.0/startingOut.dll
+/Users/dickinsd/Development/fcc-c-sharp-foundation/01-getting-started-with-c-sharp/startingOut/bin/Debug/net9.0/startingOut.pdb
+/Users/dickinsd/Development/fcc-c-sharp-foundation/01-getting-started-with-c-sharp/startingOut/obj/Debug/net9.0/startingOut.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dickinsd/Development/fcc-c-sharp-foundation/01-getting-started-with-c-sharp/startingOut/obj/Debug/net9.0/startingOut.AssemblyInfoInputs.cache
+/Users/dickinsd/Development/fcc-c-sharp-foundation/01-getting-started-with-c-sharp/startingOut/obj/Debug/net9.0/startingOut.AssemblyInfo.cs
+/Users/dickinsd/Development/fcc-c-sharp-foundation/01-getting-started-with-c-sharp/startingOut/obj/Debug/net9.0/startingOut.csproj.CoreCompileInputs.cache
+/Users/dickinsd/Development/fcc-c-sharp-foundation/01-getting-started-with-c-sharp/startingOut/obj/Debug/net9.0/startingOut.sourcelink.json
+/Users/dickinsd/Development/fcc-c-sharp-foundation/01-getting-started-with-c-sharp/startingOut/obj/Debug/net9.0/startingOut.dll
+/Users/dickinsd/Development/fcc-c-sharp-foundation/01-getting-started-with-c-sharp/startingOut/obj/Debug/net9.0/refint/startingOut.dll
+/Users/dickinsd/Development/fcc-c-sharp-foundation/01-getting-started-with-c-sharp/startingOut/obj/Debug/net9.0/startingOut.pdb
+/Users/dickinsd/Development/fcc-c-sharp-foundation/01-getting-started-with-c-sharp/startingOut/obj/Debug/net9.0/startingOut.genruntimeconfig.cache
+/Users/dickinsd/Development/fcc-c-sharp-foundation/01-getting-started-with-c-sharp/startingOut/obj/Debug/net9.0/ref/startingOut.dll

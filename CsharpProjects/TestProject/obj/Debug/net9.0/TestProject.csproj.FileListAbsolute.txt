@@ -1,0 +1,15 @@
+/Users/dickinsd/Development/fcc-c-sharp-foundation/CsharpProjects/TestProject/bin/Debug/net9.0/TestProject
+/Users/dickinsd/Development/fcc-c-sharp-foundation/CsharpProjects/TestProject/bin/Debug/net9.0/TestProject.deps.json
+/Users/dickinsd/Development/fcc-c-sharp-foundation/CsharpProjects/TestProject/bin/Debug/net9.0/TestProject.runtimeconfig.json
+/Users/dickinsd/Development/fcc-c-sharp-foundation/CsharpProjects/TestProject/bin/Debug/net9.0/TestProject.dll
+/Users/dickinsd/Development/fcc-c-sharp-foundation/CsharpProjects/TestProject/bin/Debug/net9.0/TestProject.pdb
+/Users/dickinsd/Development/fcc-c-sharp-foundation/CsharpProjects/TestProject/obj/Debug/net9.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dickinsd/Development/fcc-c-sharp-foundation/CsharpProjects/TestProject/obj/Debug/net9.0/TestProject.AssemblyInfoInputs.cache
+/Users/dickinsd/Development/fcc-c-sharp-foundation/CsharpProjects/TestProject/obj/Debug/net9.0/TestProject.AssemblyInfo.cs
+/Users/dickinsd/Development/fcc-c-sharp-foundation/CsharpProjects/TestProject/obj/Debug/net9.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/dickinsd/Development/fcc-c-sharp-foundation/CsharpProjects/TestProject/obj/Debug/net9.0/TestProject.sourcelink.json
+/Users/dickinsd/Development/fcc-c-sharp-foundation/CsharpProjects/TestProject/obj/Debug/net9.0/TestProject.dll
+/Users/dickinsd/Development/fcc-c-sharp-foundation/CsharpProjects/TestProject/obj/Debug/net9.0/refint/TestProject.dll
+/Users/dickinsd/Development/fcc-c-sharp-foundation/CsharpProjects/TestProject/obj/Debug/net9.0/TestProject.pdb
+/Users/dickinsd/Development/fcc-c-sharp-foundation/CsharpProjects/TestProject/obj/Debug/net9.0/TestProject.genruntimeconfig.cache
+/Users/dickinsd/Development/fcc-c-sharp-foundation/CsharpProjects/TestProject/obj/Debug/net9.0/ref/TestProject.dll
